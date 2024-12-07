@@ -1,4 +1,4 @@
-# ### Hi there 👋, I am Youssef
+### Hi there 👋, I am Youssef
 #### Aspiring Cybersecurity Professional
 I am an aspiring Cybersecurity professional transitioning from a successful background in customer service and call center operations. My previous role equipped me with exceptional problem-solving skills, effective communication, and a customer-focused mindset, all of which I now bring to my journey into the world of cybersecurity.
 
