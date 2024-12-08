@@ -62,6 +62,9 @@ Tools & OS i have used and learned :
     <a href="https://atomicredteam.io/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/6877001?v=4" alt="Atomic Red Team" width="65" height="65"/>
     </a>
+    <a href="https://www.virustotal.com/" target="_blank" rel="noreferrer">
+        <img src="https://pbs.twimg.com/profile_images/903041019331174400/BIaetD1J_400x400.jpg" alt="VirusTotal" width="65" height="65"/>
+  </a>
 </div>
 
 
