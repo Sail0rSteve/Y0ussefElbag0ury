@@ -1,8 +1,8 @@
 - ### Hi there 👋, I am Youssef
-- #### Aspiring Cybersecurity Professional
+- ####  Cybersecurity Professional
 I am an aspiring Cybersecurity professional transitioning from a successful background in customer service and call center operations. My previous role equipped me with exceptional problem-solving skills, effective communication, and a customer-focused mindset, all of which I now bring to my journey into the world of cybersecurity.
 
--Currently, I hold the ISC2 Certified in Cybersecurity (CC) certification and have completed foundational courses in Cyber Defense, Networking Fundamentals, and System Security. My learning path includes hands-on practice on platforms like TryHackMe, where I am building practical skills in network security, threat analysis, and defensive strategies.
+- Currently, I hold the ISC2 Certified in Cybersecurity (CC) certification and have completed foundational courses in Cyber Defense, Networking Fundamentals, and System Security. My learning path includes hands-on practice on platforms like TryHackMe, where I am building practical skills in network security, threat analysis, and defensive strategies.
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sail0rSteve.png" alt="Your Image Badge" />
@@ -47,7 +47,7 @@ Tools & OS i have used and learned :
     <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/768px-Wireshark_icon_new.png" alt="Wireshark" width="65" height="65"/>
     </a>
-    <a href="https://www.yara.com/" target="_blank" rel="noreferrer">
+    <a href="https://virustotal.github.io/yara/" target="_blank" rel="noreferrer">
         <img src="https://miro.medium.com/v2/resize:fit:1200/0*sFqdKE7OTLWg8IlT.png" alt="YARA" width="65" height="65"/>
     </a>
     <a href="https://www.opencti.io/" target="_blank" rel="noreferrer">
